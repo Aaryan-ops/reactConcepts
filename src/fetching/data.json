@@ -1,0 +1,8 @@
+{
+
+  "name":"Aaryan",
+  "gender":"male",
+  "age":25,
+  "address":{"streetAddress":"126 Udhana","city":"san jobe", "state":"up"},
+  "ph":[{"type":"one","number":4423432},{"type":"two","number":323231}]
+}
